@@ -2,7 +2,7 @@
 ColorScheme=BreezeDark
 
 [Icons]
-Theme=Citrus-red-dark
+Theme=breeze-dark
 
 [KDE]
 LookAndFeelPackage=org.kde.breezedark.desktop
