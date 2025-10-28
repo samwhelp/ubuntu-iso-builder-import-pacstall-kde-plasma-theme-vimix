@@ -87,10 +87,8 @@ local run_cmd=$(cat << __EOF__
 		bean-resource-kde-plasma-keybind-switch
 
 
-		bean-appearance-citrus-icon-theme
 		bean-appearance-greystone-icon-theme
-
-
+		bean-appearance-citrus-icon-theme
 		bean-appearance-vimix-gtk-theme
 		bean-appearance-vimix-kde-theme
 
