@@ -9,8 +9,6 @@
 | [ubuntu-iso-builder-template](https://github.com/samwhelp/ubuntu-iso-builder-template) |
 | `+` |
 | [ubuntu-iso-builder-import-pacstall-kde-plasma-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-kde-plasma-theme-vimix) |
-| `=` |
-| [ubuntu-iso-builder-include-pacstall-kde-plasma-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-kde-plasma-theme-vimix) |
 
 
 
@@ -129,3 +127,4 @@ make build
 | [Kubuntu / Note](https://samwhelp.github.io/note-about-kubuntu/) | [GitHub](https://github.com/samwhelp/note-about-kubuntu) |
 | [Ubuntu / Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
 | [Ubuntu / Note](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
+| [Ubuntu / ISO Builder / Template / Kde Plasma](https://samwhelp.github.io/ubuntu-iso-builder-template/read/respin/kde-plasma.html) |  |
