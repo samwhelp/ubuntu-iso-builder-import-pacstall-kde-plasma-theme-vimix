@@ -2,10 +2,10 @@
 
 # Home
 
-> [ubuntu-iso-builder-import-pacstall-kde-plasma-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-kde-plasma-theme-vimix)
+> [ubuntu-iso-builder-import-pacstall-kde-plasma-theme-vimix](https://samwhelp.github.io/ubuntu-iso-builder-import-pacstall-kde-plasma-theme-vimix/)
 
-| Link |
-| ---- |
+| Project |
+| ------- |
 | [ubuntu-iso-builder-template](https://github.com/samwhelp/ubuntu-iso-builder-template) |
 | `+` |
 | [ubuntu-iso-builder-import-pacstall-kde-plasma-theme-vimix](https://github.com/samwhelp/ubuntu-iso-builder-import-pacstall-kde-plasma-theme-vimix) |
